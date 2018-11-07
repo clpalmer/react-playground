@@ -13,7 +13,7 @@ module.exports = {
     ],
   },
   devServer: {
-    public: 'test',
+    //public: 'test',
   },
   output: {
     path: path.resolve(__dirname, './dist'),
